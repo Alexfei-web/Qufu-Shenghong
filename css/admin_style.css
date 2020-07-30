@@ -1,0 +1,13 @@
+ *{margin:0;
+   padding:0;}
+   html,body{height:100%;}
+   body{width:100%;text-align:center; background:#eef3fa;}
+   .center_frame{width:1004px; margin:0 auto auto auto; height:100%; background-color:#ababab;border:1px solid #CCCCCC;}
+   .bg{ width:100%;background:url(../admin/images/bg1.png) repeat-x bottom left; height:248px; margin:0 auto auto auto; margin-top:20%; text-align:center;}
+   .login_center{width:550px;margin:0 auto auto auto;}
+   .login_left{width:200px; float:left;}
+   .login_right{width:300px; float:right;}
+   .login_top{float:right;}
+   .login_table{width:300px;float:left; padding-top:10px;}
+   .txt{padding-left:5px; font-size:12px; text-align:left;}
+   textarea{ word-break:break-all; resizeMode:0;}
